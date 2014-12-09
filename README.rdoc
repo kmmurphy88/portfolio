@@ -1,0 +1,17 @@
+==README==
+
+This is my personal portfolio. The purpose of the page is to showcase all my projects and products in web development.
+
+- Home Page
+- About Me
+- Contact
+   - Github Link
+   - LinkedIn Profile
+   - Other social media
+- Projects
+   - index
+   - show
+   - links
+  - Admin actions
+- Blog Page
+
